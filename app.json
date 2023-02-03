@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "qianzhiwei",
     "name": "nba_push_score",
     "slug": "nba_push_score2",
     "version": "1.0.0",
