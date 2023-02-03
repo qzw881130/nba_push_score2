@@ -18,7 +18,8 @@
     "native-notify": "^3.0.4",
     "react": "18.1.0",
     "react-devtools-core": "^4.27.1",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "expo-updates": "~0.15.6"
   },
   "private": true
 }
