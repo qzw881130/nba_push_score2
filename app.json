@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nba_push_score2",
-    "slug": "nba_push_score2",
+    "name": "nba_push_score",
+    "slug": "nba_push_score",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,7 +26,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.qianzhiwei.nba_push_score2"
+      "package": "com.qianzhiwei.nba_push_score"
     },
     "web": {
       "favicon": "./assets/favicon.png"

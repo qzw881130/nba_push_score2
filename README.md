@@ -18,10 +18,11 @@ adb -s 72a1e28e install application-b6ba2795-20f9-4a8c-a41e-a2c7d9693392.apk
 ```shell
 npx expo start -c --no-dev  --offline 
 npx expo start -c  --offline 
- 
+
+npx expo start -c --no-dev 
 ```
 
 #all user install
 ```shell
-npx expo start -c --no-dev --tunnel   
+npx expo start -c --no-dev --tunnel
 ```
