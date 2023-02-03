@@ -9,8 +9,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello, NBA Score Notification when one of team score &gt;=100</Text>
-      <StatusBar style="auto" />
+      <Text style={styles.text}>Hello, NBA Score Notification when one of team score &gt;=100</Text>      <StatusBar style="auto" />
     </View>
   );
 }
