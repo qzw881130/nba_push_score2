@@ -21,7 +21,7 @@ Using `exp://{your-server-ip}:19000` to generate a QR Code, you can use any tool
 
 
 ![Push effection](./help2.png)
-![Debug](./help1.jpeg)
+<img src="./help1.jpeg" width="170px"/>
 
 
 [push notification without firebase tutorials](https://www.youtube.com/watch?v=IEiZy0pcMMA)
