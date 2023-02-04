@@ -1,4 +1,5 @@
-# nba_push_score2
+# Nba_push_score2
+
 (push notification without firebase tutorials)[https://www.youtube.com/watch?v=IEiZy0pcMMA]
 
 
@@ -31,21 +32,21 @@ npx expo start -c --no-dev --tunnel
 [local build ios]](https://docs.expo.dev/app-signing/local-credentials/)
 
 
-#product server setup
-## 1, Start Server
+## Product Server Setup
+### 1, Start Server
 ```
 npx expo login  #must login first
 nohup npx expo start -c --no-dev  &
 ```
-## 2, Generate QR Code(The below Demo)
+### 2, Generate QR Code(The below Demo)
 Using `exp://{your-server-ip}:19000` to generate a QR Code, you can use any tool. for example [qrcode-generator](https://www.the-qrcode-generator.com/)
 
-#user install
-## 1, pls visit https://expo.dev/client to download "Expo Go" App
-## 2, Scan the QR code below with Expo Go (Android) or the Camera app (iOS)
+## User installation
+### 1, pls visit https://expo.dev/client to download "Expo Go" App
+### 2, Scan the QR code below with Expo Go (Android) or the Camera app (iOS)
 ![Download](./help3.png)
 
-## 3, after Download && Install, pls grant "Push notification" function.
+### 3, after Download && Install, pls grant "Push notification" function.
 
 
 >if the user download fail, pls shake phone, then click "Reload", it will renew download.
