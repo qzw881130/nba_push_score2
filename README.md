@@ -23,6 +23,11 @@ Using `exp://{your-server-ip}:19000` to generate a QR Code, you can use any tool
 ![Push effection](./help2.png)
 <img src="./help1.jpeg" width="170px"/>
 
+* [https://china.nba.cn/](https://china.nba.cn/)
+* [https://www.nba.com/games](https://www.nba.com/games)
+
+
+## Other Development Experience
 
 [push notification without firebase tutorials](https://www.youtube.com/watch?v=IEiZy0pcMMA)
 
