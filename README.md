@@ -26,3 +26,11 @@ npx expo start -c --no-dev
 ```shell
 npx expo start -c --no-dev --tunnel
 ```
+
+#local build ios
+[local build ios]](https://docs.expo.dev/app-signing/local-credentials/)
+
+#server setup
+```
+nohup npx expo start -c --no-dev  &
+```
