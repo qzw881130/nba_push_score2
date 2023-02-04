@@ -3,7 +3,6 @@
 ## Product Server Setup
 ### 1, Start Server
 ```
-git clone https://github.com/qzw881130/nba_push_score2
 npx expo login  #must login first
 nohup npx expo start -c --no-dev  &
 ```
