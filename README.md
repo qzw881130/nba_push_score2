@@ -1,4 +1,4 @@
-# Nba_push_score2
+# NBA Push Score Expo App
 
 ## Product Server Setup
 ### 1, Start Server
