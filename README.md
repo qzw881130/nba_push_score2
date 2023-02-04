@@ -30,7 +30,26 @@ npx expo start -c --no-dev --tunnel
 #local build ios
 [local build ios]](https://docs.expo.dev/app-signing/local-credentials/)
 
-#server setup
+
+#product server setup
+## 1, Start Server
 ```
+npx expo login  #must login first
 nohup npx expo start -c --no-dev  &
 ```
+## 2, Generate QR Code(The below Demo)
+Using `exp://{your-server-ip}:19000` to generate a QR Code, you can use any tool. for example [qrcode-generator](https://www.the-qrcode-generator.com/)
+
+#user install
+## 1, pls visit https://expo.dev/client to download "Expo Go" App
+## 2, Scan the QR code below with Expo Go (Android) or the Camera app (iOS)
+![Download](./help3.png)
+
+## 3, after Download && Install, pls grant "Push notification" function.
+
+
+>if the user download fail, pls shake phone, then click "Reload", it will renew download.
+
+
+![Push effection](./help2.png)
+![Debug](./help1.jpeg)
