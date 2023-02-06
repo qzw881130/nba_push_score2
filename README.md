@@ -25,6 +25,7 @@ Using `exp://{your-server-ip}:19000` to generate a QR Code, you can use any tool
 
 * [https://china.nba.cn/](https://china.nba.cn/)
 * [https://www.nba.com/games](https://www.nba.com/games)
+* [https://www.actionnetwork.com/nba/odds](https://www.actionnetwork.com/nba/odds)
 
 
 ## Other Development Experience
